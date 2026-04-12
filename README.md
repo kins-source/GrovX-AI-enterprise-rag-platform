@@ -83,19 +83,6 @@ Structured DB: SQLite
 
 ---
 
-## 📸 Screenshots
-
-(Add your screenshots here)
-
-Example:
-
-* assets/home.png
-* assets/sql_query.png
-* assets/document_summary.png
-* assets/sources.png
-
----
-
 ## 🚀 How to Run
 
 ### 1. Clone Repository
