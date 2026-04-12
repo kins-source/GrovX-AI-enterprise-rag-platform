@@ -1,0 +1,17 @@
+[
+    {
+        "question": "How many orders were placed by Alice Smith?",
+        "expected_answer_keywords": ["number", "amount", "Alice", "Smith"],
+        "category": "sql"
+    },
+    {
+        "question": "What is the total revenue from Cloud Storage 1TB?",
+        "expected_answer_keywords": ["120", "revenue", "storage"],
+        "category": "sql"
+    },
+    {
+        "question": "What are the rules for enterprise data compliance?",
+        "expected_answer_keywords": ["compliance", "rules", "policy", "enterprise"],
+        "category": "rag"
+    }
+]
