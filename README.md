@@ -1,4 +1,4 @@
-# 🚀 Enterprise AI Knowledge Assistant using Agentic RAG
+# GROVX AI : Enterprise AI Knowledge Assistant using Agentic RAG
 
 An intelligent AI-powered assistant that enables users to query both structured databases and unstructured documents using natural language.
 
