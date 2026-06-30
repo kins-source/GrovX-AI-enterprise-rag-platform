@@ -88,8 +88,8 @@ Structured DB: SQLite
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/manya-ghorpade/enterprise-ai-knowledge-assistant.git
-cd enterprise-ai-knowledge-assistant
+git clone https://github.com/kins-source/GrovX-AI-enterprise-rag-platform.git
+cd GrovX-AI-enterprise-rag-platform
 ```
 
 ---
